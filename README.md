@@ -1,4 +1,4 @@
-# Faithful-Enhanced
+# Faithful Enhanced
 Faithful Enhanced is a heavily OptiFine-reliant collection of quality-of-life tweaks and nifty little features for Faithful 32x. It is highly incomplete right now, but when it's done it will have many features. This pack aims to be compatible with as many other add-ons as possible, so please report any compatibility issues in the Issues section! And if you have ideas for this pack, submit them in Issues as a Feature Suggestion or just talk to me on discord.
 _________________
 ### Fully implemented features
