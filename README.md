@@ -13,6 +13,7 @@ _________________
 - CTM overlay textures
 - Better slab sides
 ### Planned features
+- Moss on mossy stone bricks changing colour depending on biome
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
 - Biome-specific iron golems (with clothing similar to villagers)
