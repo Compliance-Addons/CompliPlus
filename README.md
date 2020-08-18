@@ -38,4 +38,4 @@ _________________
 - Better farmland
 - Crimson/warped mossy polished blackstone bricks as a rare variant of polished blackstone bricks in crimson/warped forests
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
-
+- Better flower pots (ala [Flower Pots+](https://www.curseforge.com/minecraft/texture-packs/flower-pots))
