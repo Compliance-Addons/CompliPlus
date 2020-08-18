@@ -35,3 +35,7 @@ _________________
 - Biome-specific campfires
 - Visual enchantments on enchanted books
 - Armour stand items showing what the stand will look like when placed (like [this pack](https://www.curseforge.com/minecraft/texture-packs/better-stands))
+- Better farmland
+- Crimson/warped mossy polished blackstone bricks as a rare variant of polished blackstone bricks in crimson/warped forests
+- Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination)
+
