@@ -10,7 +10,7 @@ _________________
 - Bedrock looking more similar to netherrack in the nether
 ### Partially implemented features
 - Container-specific GUI
-- CTM overlay textures
+- CTM overlay textures (will be reworked in the future)
 - Better slab sides
 ### Planned features
 - Moss on mossy stone bricks changing colour depending on biome
@@ -39,3 +39,4 @@ _________________
 - Crimson/warped mossy polished blackstone bricks as a rare variant of polished blackstone bricks in crimson/warped forests
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
 - Better flower pots (ala [Flower Pots+](https://www.curseforge.com/minecraft/texture-packs/flower-pots))
+- Dungeons-like terracotta in badlands biomes
