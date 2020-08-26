@@ -21,7 +21,7 @@ _________________
 - Gravel looking different in the nether, blending with the environment better
 - Biome-dependent sky and water
 - Intersecting planks and bricks using CTM overlays
-- Leaves turning snowy when snow is on top (or when in a snowy biome?)
+- Better snow (more blocks changing their texture when snow is on top)
 - Better sugar cane tops and vine ends (using vertical CTM)
 - Custom debug stick texture
 - Dimensional loading screens
