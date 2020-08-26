@@ -8,6 +8,7 @@ _________________
 - Shaded logs with horizontal CTM (will be reworked in the future)
 - Better iron and gold pressure plates
 - Bedrock looking more similar to netherrack in the nether
+- Better flower pots (by @RobertRR11)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
@@ -38,5 +39,4 @@ _________________
 - Better farmland
 - Crimson/warped mossy polished blackstone bricks as a rare variant of polished blackstone bricks in crimson/warped forests
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
-- Better flower pots (ala [Flower Pots+](https://www.curseforge.com/minecraft/texture-packs/flower-pots))
 - Dungeons-like terracotta in badlands biomes
