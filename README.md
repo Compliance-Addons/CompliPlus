@@ -8,7 +8,7 @@ _________________
 - Shaded logs with horizontal CTM (will be reworked in the future)
 - Better iron and gold pressure plates
 - Bedrock looking more similar to netherrack in the nether
-- Better flower pots (by @RobertRR11)
+- Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
@@ -27,7 +27,6 @@ _________________
 - Dimensional loading screens
 - Better banner pattern items
 - End grass in some of the End's biomes
-- Sapling items being replaced by tree seeds
 - Sapling blocks being 2 blocks high when mid-grown
 - Shroomlights changing colour per-biome (or maybe when they're next to a nether/warped wart block)
 - Blackstone (blast) furnaces and smokers in the nether
@@ -42,3 +41,4 @@ _________________
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
 - Dungeons-like terracotta in badlands biomes
 - Better smooth stone
+- Flowers and berry bushes using the grass colourmap
