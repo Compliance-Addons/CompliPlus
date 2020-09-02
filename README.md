@@ -10,6 +10,7 @@ _________________
 - Bedrock looking more similar to netherrack in the nether
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
+- Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
@@ -20,7 +21,6 @@ _________________
 - Biome-specific iron golems (with clothing similar to villagers)
 - Gravel looking different in the nether, blending with the environment better
 - Biome-dependent sky and water
-- Intersecting planks and bricks using CTM overlays
 - Better snow (more blocks changing their texture when snow is on top)
 - Better sugar cane tops and vine ends (using vertical CTM)
 - Custom debug stick texture
