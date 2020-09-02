@@ -9,12 +9,12 @@ _________________
 - Better iron and gold pressure plates
 - Bedrock looking more similar to netherrack in the nether
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
+- Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
 - Better slab sides
 ### Planned features
-- Moss on mossy stone bricks changing colour depending on biome
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
 - Biome-specific iron golems (with clothing similar to villagers)
