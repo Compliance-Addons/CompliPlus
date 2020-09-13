@@ -11,6 +11,7 @@ _________________
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
 - Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
+- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
@@ -29,7 +30,7 @@ _________________
 - End grass in some of the End's biomes
 - Sapling blocks being 2 blocks high when mid-grown
 - Shroomlights changing colour per-biome (or maybe when they're next to a nether/warped wart block)
-- Blackstone (blast) furnaces and smokers in the nether
+- Blackstone Blast furnaces and smokers in the nether
 - Bedrock looking different in the End (maybe as a portal frame of some kind?)
 - Biome-specific bells
 - Biome-specific campfires
