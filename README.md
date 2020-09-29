@@ -11,6 +11,7 @@ _________________
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
 - Dungeons-like terracotta in badlands biomes
+- Realistic lantern holding (by @RobertRR11)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
