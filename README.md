@@ -10,12 +10,13 @@ _________________
 - Bedrock looking more similar to netherrack in the nether
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
-- Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
-- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
+- Dungeons-like terracotta in badlands biomes
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
 - Better slab sides
+- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
+- Intersecting planks and bricks using CTM overlays (by @RobertRR11 and @Pomik108; currently not compatible with FAT, will be in the future)
 ### Planned features
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
@@ -40,6 +41,5 @@ _________________
 - Better farmland
 - Crimson/warped mossy polished blackstone bricks as a rare variant of polished blackstone bricks in crimson/warped forests
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
-- Dungeons-like terracotta in badlands biomes
 - Better smooth stone
 - Flowers and berry bushes using the grass colourmap
