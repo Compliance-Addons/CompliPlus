@@ -12,6 +12,7 @@ _________________
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
 - Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
 - Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
+- realistic lantern holding (by @RobertRR11)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
