@@ -10,7 +10,12 @@ _________________
 - Bedrock looking more similar to netherrack in the nether
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
+<<<<<<< Updated upstream
 - Dungeons-like terracotta in badlands biomes
+=======
+- Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
+- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
+>>>>>>> Stashed changes
 - Realistic lantern holding (by @RobertRR11)
 ### Partially implemented features
 - Container-specific GUI
