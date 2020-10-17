@@ -10,19 +10,15 @@ _________________
 - Bedrock looking more similar to netherrack in the nether
 - Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
 - Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
-<<<<<<< Updated upstream
 - Dungeons-like terracotta in badlands biomes
-=======
-- Intersecting planks and bricks using CTM overlays (by @RobertRR11; currently not compatible with FAT, will be in the future)
+- Intersecting planks and bricks using CTM overlays (Compatible with FAT! Also, these overlays might not show up some times and act weird. This is OptiFine's fault, i can't really do anything to fix that)
 - Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
->>>>>>> Stashed changes
 - Realistic lantern holding (by @RobertRR11)
 ### Partially implemented features
 - Container-specific GUI
 - CTM overlay textures (will be reworked in the future)
 - Better slab sides
 - Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
-- Intersecting planks and bricks using CTM overlays (by @RobertRR11 and @Pomik108; currently not compatible with FAT, will be in the future)
 ### Planned features
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
@@ -37,7 +33,6 @@ _________________
 - End grass in some of the End's biomes
 - Sapling blocks being 2 blocks high when mid-grown
 - Shroomlights changing colour per-biome (or maybe when they're next to a nether/warped wart block)
-- Blackstone Blast furnaces and smokers in the nether
 - Bedrock looking different in the End (maybe as a portal frame of some kind?)
 - Biome-specific bells
 - Biome-specific campfires
