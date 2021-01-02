@@ -1,25 +1,24 @@
-# Faithful Enhanced
-Faithful Enhanced is a heavily OptiFine-reliant collection of quality-of-life tweaks and nifty little features for Faithful 32x. It is highly incomplete right now, but when it's done it will have many features. This pack aims to be compatible with as many other add-ons as possible, so please report any compatibility issues in the Issues section! And if you have ideas for this pack, submit them in Issues as a Feature Suggestion or just talk to me on discord.
+# CompliPlus
+CompliPlus is a heavily OptiFine-reliant collection of quality-of-life tweaks and nifty little features for Compliance 32x. It is highly incomplete right now, but when it's done it will have many features. This pack aims to be compatible with as many other add-ons as possible, so please report any compatibility issues in the Issues section! And if you have ideas for this pack, submit them in Issues as a Feature Suggestion or just talk to me on discord.
 _________________
 ### Fully implemented features
-- Emissive textures
 - Fire burning purple in the End
-- Moss on mossy cobblestone changing colour depending on biome
-- Shaded logs with horizontal CTM (will be reworked in the future)
-- Better iron and gold pressure plates
-- Bedrock looking more similar to netherrack in the nether
-- Better flower pots (by @RobertRR11; compatible with Faithful 3D only partially)
-- Moss on mossy stone bricks changing colour depending on biome (compatible with FAT!)
+- Better flower pots 
 - Dungeons-like terracotta in badlands biomes
-- Intersecting planks and bricks using CTM overlays (Compatible with FAT! Also, these overlays might not show up some times and act weird. This is OptiFine's fault, i can't really do anything to fix that)
-- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
 - Realistic lantern holding (by @RobertRR11)
 ### Partially implemented features
-- Container-specific GUI
-- CTM overlay textures (will be reworked in the future)
-- Better slab sides
-- Blackstone furnaces in the nether (by @RobertRR11; blast furnace and smoker not done)
+- Emissive textures
 ### Planned features
+- Better slab sides
+- Blackstone furnaces in the nether 
+- CTM overlay textures 
+- Container-specific GUI
+- Blackstone furnaces in the nether 
+- Intersecting planks and bricks using CTM overlays 
+- Moss on mossy stone bricks changing colour depending on biome 
+- Bedrock looking more similar to netherrack in the nether
+- Better iron and gold pressure plates
+- Moss on mossy cobblestone changing colour depending on biome
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
 - Biome-specific iron golems (with clothing similar to villagers)
