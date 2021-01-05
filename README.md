@@ -6,19 +6,17 @@ _________________
 - Better flower pots 
 - Dungeons-like terracotta in badlands biomes
 - Realistic lantern holding (by @RobertRR11)
-### Partially implemented features
 - Emissive textures
-### Planned features
-- Better slab sides
-- Blackstone furnaces in the nether 
-- CTM overlay textures 
-- Container-specific GUI
-- Blackstone furnaces in the nether 
-- Intersecting planks and bricks using CTM overlays 
-- Moss on mossy stone bricks changing colour depending on biome 
-- Bedrock looking more similar to netherrack in the nether
+- Intersecting planks and bricks using CTM overlay
+- Moss on mossy stone bricks and mossy cobblestone changing colour depending on biome
 - Better iron and gold pressure plates
-- Moss on mossy cobblestone changing colour depending on biome
+- Bedrock looking more similar to netherrack in the nether
+### Partially implemented features
+- Better slab sides
+- Blackstone furnaces and other cookers in the nether
+### Planned features 
+- CTM overlay textures 
+- Container-specific GUIs
 - Oak logs and leaves looking different in swamps
 - Biome- and height-dependent creeper textures
 - Biome-specific iron golems (with clothing similar to villagers)
