@@ -22,7 +22,6 @@ _________________
 - Biome-specific iron golems (with clothing similar to villagers)
 - Gravel looking different in the nether, blending with the environment better
 - Biome-dependent sky and water
-- Better snow (more blocks changing their texture when snow is on top)
 - Better sugar cane tops and vine ends (using vertical CTM)
 - Custom debug stick texture
 - Dimensional loading screens
