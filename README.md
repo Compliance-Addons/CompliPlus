@@ -15,6 +15,7 @@ _________________
 - Better slab sides
 - Blackstone furnaces and other cookers in the nether
 ### Planned features 
+- Translucent water in cauldrons
 - CTM overlay textures 
 - Container-specific GUIs
 - Oak logs and leaves looking different in swamps
