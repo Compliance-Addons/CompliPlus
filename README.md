@@ -41,3 +41,5 @@ _________________
 - Differentiated potions (ala [this pack](https://www.curseforge.com/minecraft/texture-packs/color-corkination))
 - Better smooth stone
 - Flowers and berry bushes using the grass colourmap
+- ["Connected" ores](https://cdn.discordapp.com/attachments/744223755391467522/800422452106231829/image0.png)
+- Andesite/granite/diorite ores when surrounded by the respective rock type on all sides
