@@ -11,6 +11,7 @@ _________________
 - Moss on mossy stone bricks and mossy cobblestone changing colour depending on biome
 - Better iron and gold pressure plates
 - Bedrock looking more similar to netherrack in the nether
+- Gradient on nether portals
 ### Partially implemented features
 - Better slab sides
 - Blackstone furnaces and other cookers in the nether
