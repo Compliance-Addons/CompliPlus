@@ -12,11 +12,11 @@ _________________
 - Better iron and gold pressure plates
 - Bedrock looking more similar to netherrack in the nether
 - Gradient on nether portals
+- Translucent cauldron water
 ### Partially implemented features
 - Better slab sides
 - Blackstone furnaces and other cookers in the nether
 ### Planned features 
-- Translucent water in cauldrons
 - CTM overlay textures 
 - Container-specific GUIs
 - Oak logs and leaves looking different in swamps
