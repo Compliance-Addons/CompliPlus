@@ -1,14 +1,14 @@
 {
     "variants": {
 		"": [
-            { "model": "block/potted_wapred_mushroom" },
-            { "model": "block/potted_wapred_mushroom_0" },
-            { "model": "block/potted_wapred_mushroom_1" },
-            { "model": "block/potted_wapred_mushroom_2" },
-            { "model": "block/potted_wapred_mushroom_3" },
-            { "model": "block/potted_wapred_mushroom_4" },
-            { "model": "block/potted_wapred_mushroom_5" },
-			{ "model": "block/potted_wapred_mushroom_6" }
+            { "model": "block/potted_warped_mushroom" },
+            { "model": "block/potted_warped_mushroom_0" },
+            { "model": "block/potted_warped_mushroom_1" },
+            { "model": "block/potted_warped_mushroom_2" },
+            { "model": "block/potted_warped_mushroom_3" },
+            { "model": "block/potted_warped_mushroom_4" },
+            { "model": "block/potted_warped_mushroom_5" },
+			{ "model": "block/potted_warped_mushroom_6" }
         ]
     }
 }
